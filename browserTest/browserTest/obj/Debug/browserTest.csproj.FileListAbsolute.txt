@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\bin\Debug\browserTest.exe
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\bin\Debug\browserTest.pdb
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\obj\Debug\browserTest.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\obj\Debug\browserTest.customizeBrowser.resources
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\obj\Debug\browserTest.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\obj\Debug\browserTest.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\obj\Debug\browserTest.exe
+c:\users\user\documents\visual studio 2015\Projects\browserTest\browserTest\obj\Debug\browserTest.pdb
